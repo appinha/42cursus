@@ -6,7 +6,7 @@
 /*   By: apuchill <apuchill@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/25 16:29:28 by apuchill          #+#    #+#             */
-/*   Updated: 2020/02/19 14:07:17 by apuchill         ###   ########.fr       */
+/*   Updated: 2020/02/19 14:00:51 by apuchill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -104,7 +104,7 @@ int				ft_isblank(int c);
 int				ft_isxdigit(int c);
 
 void			ft_putchar(char c);
-void			ft_putstr(char *s);
+void			ft_putstr(char *str);
 void			ft_putendl(char *s);
 void			ft_putnbr(int n);
 double			ft_sqrt(double x);
