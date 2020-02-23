@@ -10,16 +10,16 @@ For further information, refer to the [project's PDF](../_PDFs/).
 * [`ft_isascii`](./ft_isascii.c)			- test for ASCII character
 * [`ft_isalnum`](./ft_isalnum.c)			- alphanumeric character test
 * [`ft_isalpha`](./ft_isalpha.c)			- alphabetic character test
-* [`ft_islower`](./ft_islower_bonus.c)		- lower-case character test
-* [`ft_isupper`](./ft_isupper_bonus.c)		- upper-case character test
+* [`ft_islower`](./ft_islower_bonus.c) *	- lower-case character test
+* [`ft_isupper`](./ft_isupper_bonus.c) *	- upper-case character test
 * [`ft_isdigit`](./ft_isdigit.c)			- decimal-digit character test
-* [`ft_isxdigit`](./ft_isxdigit_bonus.c)	- hexadecimal-digit character test
+* [`ft_isxdigit`](./ft_isxdigit_bonus.c) *	- hexadecimal-digit character test
 * [`ft_isprint`](./ft_isprint.c)			- printing character test (space character inclusive)
-* [`ft_isgraph`](./ft_isgraph_bonus.c)		- printing character test (space character exclusive)
-* [`ft_isspace`](./ft_isspace_bonus.c)		- white-space character test
-* [`ft_isblank`](./ft_isblank_bonus.c)		- space or tab character test
-* [`ft_ispunct`](./ft_ispunct_bonus.c)		- punctuation character test
-* [`ft_iscntrl`](./ft_iscntrl_bonus.c)		- control character test
+* [`ft_isgraph`](./ft_isgraph_bonus.c) *		- printing character test (space character exclusive)
+* [`ft_isspace`](./ft_isspace_bonus.c) *		- white-space character test
+* [`ft_isblank`](./ft_isblank_bonus.c) *		- space or tab character test
+* [`ft_ispunct`](./ft_ispunct_bonus.c) *		- punctuation character test
+* [`ft_iscntrl`](./ft_iscntrl_bonus.c) *		- control character test
 * [`ft_tolower`](./ft_tolower.c)			- upper case to lower case letter conversion
 * [`ft_toupper`](./ft_toupper.c)			- lower case to upper case letter conversion
 
@@ -37,34 +37,34 @@ For further information, refer to the [project's PDF](../_PDFs/).
 * [`ft_memccpy`](./ft_memccpy.c)	- copy string until character found
 
 ### Functions from `<string.h>` library
-* [`ft_strlen`](./ft_strlen.c)			- find length of string
-* [`ft_strchr`](./ft_strchr.c)			- locate character in string (first occurrence)
-* [`ft_strrchr`](./ft_strrchr.c)		- locate character in string (last occurence)
-* [`ft_strstr`](./ft_strstr_bonus.c)	- locate a substring in a string
-* [`ft_strnstr`](./ft_strnstr.c)		- locate a substring in a string (size-bounded)
-* [`ft_strcmp`](./ft_strcmp_bonus.c)	- compare strings
-* [`ft_strncmp`](./ft_strncmp.c)		- compare strings (size-bounded)
-* [`ft_strcpy`](./ft_strcpy_bonus.c)	- copy strings
-* [`ft_strncpy`](./ft_strncpy_bonus.c)	- copy strings (size-bounded)
-* [`ft_strdup`](./ft_strdup.c)			- save a copy of a string (with malloc)
-* [`ft_strndup`](./ft_strndup_bonus.c)	- save a copy of a string (with malloc, size-bounded)
-* [`ft_strcat`](./ft_strcat_bonus.c)	- concatenate strings (s2 into s1)
-* [`ft_strncat`](./ft_strncat_bonus.c)	- concatenate strings (s2 into s1, size-bounded)
-* [`ft_strlcpy`](./ft_strlcpy.c)		- size-bounded string copying
-* [`ft_strlcat`](./ft_strlcat.c)		- size-bounded string concatenation
+* [`ft_strlen`](./ft_strlen.c)				- find length of string
+* [`ft_strchr`](./ft_strchr.c)				- locate character in string (first occurrence)
+* [`ft_strrchr`](./ft_strrchr.c)			- locate character in string (last occurence)
+* [`ft_strstr`](./ft_strstr_bonus.c) *		- locate a substring in a string
+* [`ft_strnstr`](./ft_strnstr.c)			- locate a substring in a string (size-bounded)
+* [`ft_strcmp`](./ft_strcmp_bonus.c) *		- compare strings
+* [`ft_strncmp`](./ft_strncmp.c)			- compare strings (size-bounded)
+* [`ft_strcpy`](./ft_strcpy_bonus.c) *		- copy strings
+* [`ft_strncpy`](./ft_strncpy_bonus.c) *	- copy strings (size-bounded)
+* [`ft_strdup`](./ft_strdup.c)				- save a copy of a string (with malloc)
+* [`ft_strndup`](./ft_strndup_bonus.c) *	- save a copy of a string (with malloc, size-bounded)
+* [`ft_strcat`](./ft_strcat_bonus.c) *		- concatenate strings (s2 into s1)
+* [`ft_strncat`](./ft_strncat_bonus.c) *	- concatenate strings (s2 into s1, size-bounded)
+* [`ft_strlcpy`](./ft_strlcpy.c)			- size-bounded string copying
+* [`ft_strlcat`](./ft_strlcat.c)			- size-bounded string concatenation
 
 ### Functions from `<math.h>` library
-* [`ft_sqrt`](./ft_sqrt_bonus.c)	- square root function
+* [`ft_sqrt`](./ft_sqrt_bonus.c) *	- square root function
 
 ### Non-standard functions
-* [`ft_swap`](./ft_swap_bonus.c)			- swap value of two integers
-* [`ft_putchar`](./ft_putchar_bonus.c)		- output a character to stdout
+* [`ft_swap`](./ft_swap_bonus.c) *			- swap value of two integers
+* [`ft_putchar`](./ft_putchar_bonus.c) *	- output a character to stdout
 * [`ft_putchar_fd`](./ft_putchar_fd.c)		- output a character to given file
-* [`ft_putstr`](./ft_putstr_bonus.c)		- output string to stdout
+* [`ft_putstr`](./ft_putstr_bonus.c) *		- output string to stdout
 * [`ft_putstr_fd`](./ft_putstr_fd.c)		- output string to given file
-* [`ft_putendl`](./ft_putendl_bonus.c)		- output string to stdout with newline
+* [`ft_putendl`](./ft_putendl_bonus.c) *	- output string to stdout with newline
 * [`ft_putendl_fd`](./ft_putendl_fd.c)		- output string to given file with newline
-* [`ft_putnbr`](./ft_putnbr_bonus.c)		- output integer to stdout
+* [`ft_putnbr`](./ft_putnbr_bonus.c) *		- output integer to stdout
 * [`ft_putnbr_fd`](./ft_putnbr_fd.c)		- output integer to given file
 * [`ft_itoa`](./ft_itoa.c)					- convert integer to ASCII string
 * [`ft_substr`](./ft_substr.c)				- extract substring from string
