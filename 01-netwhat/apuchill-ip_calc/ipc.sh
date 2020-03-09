@@ -1,2 +1,2 @@
-gcc main.c utils.c -o ip_calc.out -lm
+gcc main.c utils.c -o ipc.out -lm
 ./ipc.out $1 $2
