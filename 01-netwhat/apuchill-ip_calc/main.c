@@ -14,8 +14,8 @@
 
 int		main(int argc, char const *argv[])
 {
-	printf(CYAN("\n========================== ∙ netwhat - IP calculator ∙ =========================\n"));
-	printf(VIOLET("                                                       by apuchill   @42saopaulo\n"));
+	printf(HEADER_L("\n========================== ∙ netwhat - IP calculator ∙ =========================\n"));
+	printf(HEADER_T("                                                       by apuchill   ") HEADER_A("@42saopaulo\n"));
 
 	unsigned int	CIDR;
 	unsigned int	mask[4] = { 0 };
@@ -41,12 +41,12 @@ int		main(int argc, char const *argv[])
 
 		avail_IP_addrs = pow(2, 32 - CIDR);
 
-		printf(CYAN("\n* Provided Mask:"));
+		printf(PROVIDED("* Provided Mask:"));
 		printf(" %u (CIDR)\n\t\t %u.%u.%u.%u\n\t\t ", CIDR, mask[0], mask[1], mask[2], mask[3]);
 		print_binary_IP(mask);
-		printf(V_YELLOW("\n\n* Max nbr of hosts:"));
+		printf(CYAN("\n\n* Max nbr of hosts:"));
 		printf(" %d hosts\n", (avail_IP_addrs <= 2) ? avail_IP_addrs : avail_IP_addrs - 2);
-		printf(GREEN("* Total addresses:") "  %d addresses (including host and broadcast)", avail_IP_addrs);
+		printf(PETROL_B("* Total addresses:") "  %d addresses (including host and broadcast)", avail_IP_addrs);
 	}
 
 /*
@@ -93,29 +93,29 @@ int		main(int argc, char const *argv[])
 			i--;
 		}
 
-		printf(CYAN("* Provided IP:\t"));
-		printf("%u.%u.%u.%u\n\t\t", IP[0], IP[1], IP[2], IP[3]);
+		printf(PROVIDED("* Provided IP:\t"));
+		printf(" %u.%u.%u.%u\n\t\t ", IP[0], IP[1], IP[2], IP[3]);
 		print_binary_IP(IP);
 
-		printf(CYAN("\n* Provided Mask:"));
+		printf(PROVIDED("\n* Provided Mask:"));
 		printf(" %u (CIDR)\n\t\t %u.%u.%u.%u\n\t\t ", CIDR, mask[0], mask[1], mask[2], mask[3]);
 		print_binary_IP(mask);
 
-		printf(VIOLET("\n\n* Host:\t"));
+		printf(PINK("\n\n* Host:\t"));
 		printf("%u.%u.%u.%u / %u\n\t", subnet[0], subnet[1], subnet[2], subnet[3], CIDR);
 		print_binary_IP(subnet);
 
-		printf(RED("\n* Host range:"));
+		printf(LILAC("\n* Host range:"));
 		printf(" %u.%u.%u.%u - %u.%u.%u.%u", subnet[0], subnet[1], subnet[2], subnet[3] + 1, range[0], range[1], range[2], range[3] - 1);
 /*
 		printf(BLUE("\n\n* IP (No Host):\t"));
 		printf("%u.%u.%u.%u\n\t\t", host[0], host[1], host[2], host[3]);
 		print_binary_IP(host);
 */
-		printf(V_YELLOW("\n\n* Max nbr of hosts:"));
+		printf(CYAN("\n\n* Max nbr of hosts:"));
 		printf(" %d hosts\n", (avail_IP_addrs <= 2) ? avail_IP_addrs : avail_IP_addrs - 2);
 
-		printf(GREEN("* Total addresses:"));
+		printf(PETROL_B("* Total addresses:"));
 		printf("  %d addresses (including host and broadcast)", avail_IP_addrs);
 
 	}
@@ -125,7 +125,7 @@ int		main(int argc, char const *argv[])
 		printf(RED("\nError: Please provide a valid subnet mask, CIDR and/or IP address"));
 	}
 
-	printf(CYAN("\n\n================================================================================\n\n"));
+	printf(HEADER_L("\n\n================================================================================\n\n"));
 
 	return (0);
 }

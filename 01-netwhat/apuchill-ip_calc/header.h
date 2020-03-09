@@ -42,6 +42,11 @@
 # define ORANGE(string)		"\033[38;5;166m" string "\033[0m"
 # define V_ORANGE(string)	"\033[38;5;202m" string "\033[0m"
 
+# define HEADER_T(string)	"\033[1m\033[38;5;199m" string "\033[0m"
+# define HEADER_L(string)	"\033[38;5;43m" string "\033[0m"
+# define HEADER_A(string)	"\033[1m\033[38;5;23m" string "\033[0m"
+# define PROVIDED(string)	"\033[32m" string "\033[0m"
+
 void 			byte2binary(unsigned int n);
 void 			print_binary_IP(unsigned int IP[4]);
 void 			get_IP(char const *str, unsigned int IP[4]);
