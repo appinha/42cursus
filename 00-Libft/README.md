@@ -2,7 +2,11 @@
 
 >"The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects."
 
-For further information, refer to the [project's PDF](../_PDFs/).
+For further information, refer to the [project's PDF](../_PDFs/00-libft-en.pdf).
+
+For **testing programs** developed for this project, refer to the [project's development repo](https://github.com/appinha/42cursus-00-Libft).
+
+This folder contains solely the files required for submission.
 
 ## Contents
 
