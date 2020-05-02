@@ -19,11 +19,11 @@ This folder contains solely the files required for submission.
 * [`ft_isdigit`](./ft_isdigit.c)			- decimal-digit character test
 * [`ft_isxdigit`](./ft_isxdigit_bonus.c) *	- hexadecimal-digit character test
 * [`ft_isprint`](./ft_isprint.c)			- printing character test (space character inclusive)
-* [`ft_isgraph`](./ft_isgraph_bonus.c) *		- printing character test (space character exclusive)
-* [`ft_isspace`](./ft_isspace_bonus.c) *		- white-space character test
-* [`ft_isblank`](./ft_isblank_bonus.c) *		- space or tab character test
-* [`ft_ispunct`](./ft_ispunct_bonus.c) *		- punctuation character test
-* [`ft_iscntrl`](./ft_iscntrl_bonus.c) *		- control character test
+* [`ft_isgraph`](./ft_isgraph_bonus.c) *	- printing character test (space character exclusive)
+* [`ft_isspace`](./ft_isspace_bonus.c) *	- white-space character test
+* [`ft_isblank`](./ft_isblank_bonus.c) *	- space or tab character test
+* [`ft_ispunct`](./ft_ispunct_bonus.c) *	- punctuation character test
+* [`ft_iscntrl`](./ft_iscntrl_bonus.c) *	- control character test
 * [`ft_tolower`](./ft_tolower.c)			- upper case to lower case letter conversion
 * [`ft_toupper`](./ft_toupper.c)			- lower case to upper case letter conversion
 
@@ -87,3 +87,5 @@ This folder contains solely the files required for submission.
 * [`ft_lstclear`](./ft_lstclear.c)			- delete sequence of elements of list from a starting point
 * [`ft_lstiter`](./ft_lstiter.c)			- apply function to content of all list's elements
 * [`ft_lstmap`](./ft_lstmap.c)				- apply function to content of all list's elements into new list
+
+Obs.: functions marked with * are bonus functions not demanded by the project's subject.
