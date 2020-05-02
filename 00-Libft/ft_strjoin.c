@@ -6,7 +6,7 @@
 /*   By: apuchill <apuchill@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/31 14:43:26 by apuchill          #+#    #+#             */
-/*   Updated: 2020/02/19 14:06:04 by apuchill         ###   ########.fr       */
+/*   Updated: 2020/02/28 19:42:12 by apuchill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,11 +38,7 @@ char	*ft_strjoin(char const *s1, char const *s2)
 	}
 	j = 0;
 	while (s2[j] != '\0')
-	{
-		new_str[i] = s2[j];
-		i++;
-		j++;
-	}
+		new_str[i++] = s2[j++];
 	new_str[i] = '\0';
 	return (new_str);
 }
