@@ -1,8 +1,14 @@
-# Netwhat
+# netwhat
 
 >"This project is an introduction to network problematics"
 
-For further information, refer to the [project's PDF](../_PDFs/).
+For further information, refer to the [project's PDF](../_PDFs/01-netwhat-en.pdf).
+
+## Contents
+
+* **[apuchill-ip_calc](./apuchill-ip_calc) folder:** program to calculate information about IP addresses and such.
+* **[questions](./questions) folder:** questions answered on the netwhat test (printscreens).
+* **file in the root:** file submitted to the project.
 
 ## Study Summary
 
