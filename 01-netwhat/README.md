@@ -25,6 +25,7 @@ For further information, refer to the [project's PDF](../_PDFs/01-netwhat-en.pdf
 * **"C"** is the _default IP address class_ available.
 * The _default subnet mask_ for a **class C** network is 255.255.255.0
 * Summary:
+
 | Class		| Starting Bits	| Start		| End				| Qty. Possible Addresses	| CIDR (network-machines)	| Default subnet mask	|
 | :-:		| --:			| --:		| --:				| --:						| :--						| --:					|
 | Class A	| 0				| 0.0.0.0	| 127.255.255.255	| 16.777.214				| /8 (1 byte - 3 bytes)		| 255.0.0.0				|
