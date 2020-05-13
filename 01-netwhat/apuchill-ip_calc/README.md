@@ -25,13 +25,13 @@ git clone https://github.com/appinha/ip_calc-netwhat-42cursus.git
 `cd` to the program's cloned directory and run:
 
 ```
-sh ip.sh [IP address] [subnet mask or CIDR]
+sh ipc.sh [IP address] [subnet mask or CIDR]
 ```
 
 for information about the given **IP address**, or run:
 
 ```
-sh ip.sh [subnet mask or CIDR]
+sh ipc.sh [subnet mask or CIDR]
 ```
 
 for information about the given **subnet mask/CIDR**.
@@ -41,7 +41,7 @@ for information about the given **subnet mask/CIDR**.
 Set an **alias** for running the program, for instance:
 
 ```
-alias ipc="cd ~/ip_calc-netwhat-42cursus && sh ip.sh $1 $2"
+alias ipc="cd ~/ip_calc-netwhat-42cursus && sh ipc.sh $1 $2"
 ```
 
 Then, it suffices to run `ipc [IP address] [subnet mask or CIDR]` or `ipc [subnet mask or CIDR]`.
