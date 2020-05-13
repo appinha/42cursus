@@ -1,0 +1,10 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Norme 42 styling
+[*]
+end_of_line = lf
+indent_style = tab
+indent_size = 4
