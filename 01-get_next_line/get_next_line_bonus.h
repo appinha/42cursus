@@ -6,7 +6,7 @@
 /*   By: apuchill <apuchill@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/04/18 20:31:54 by apuchill          #+#    #+#             */
-/*   Updated: 2020/04/27 17:27:12 by apuchill         ###   ########.fr       */
+/*   Updated: 2020/06/11 00:00:31 by apuchill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,9 @@
 # define READL_OK 1
 # define EOF_RCHD 0
 # define ERR_HPND -1
+
+# define NO_ENDLINE 0
+# define FOUND_ENDLINE 1
 
 int		get_next_line(int fd, char **line);
 

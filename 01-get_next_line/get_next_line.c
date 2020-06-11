@@ -6,7 +6,7 @@
 /*   By: apuchill <apuchill@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/29 20:01:42 by apuchill          #+#    #+#             */
-/*   Updated: 2020/04/19 19:47:11 by apuchill         ###   ########.fr       */
+/*   Updated: 2020/06/11 00:00:02 by apuchill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -59,10 +59,10 @@ static int		ft_buff2line(char **line, char **buff)
 	if (buff[0][j] == '\n')
 	{
 		ft_cpy_exc_buff(&*buff, j + 1);
-		return (1);
+		return (FOUND_ENDLINE);
 	}
 	ft_free_null(&*buff);
-	return (0);
+	return (NO_ENDLINE);
 }
 
 int				get_next_line(int fd, char **line)
@@ -73,8 +73,8 @@ int				get_next_line(int fd, char **line)
 
 	if (fd >= 0 && line && BUFFER_SIZE > 0 && (*line = ft_strdup("")))
 	{
-		ret[0] = 0;
-		while (ret[0] == 0)
+		ret[0] = NO_ENDLINE;
+		while (ret[0] == NO_ENDLINE)
 		{
 			if (buff[fd] == NULL && (ret[1] = read(fd, tmp, BUFFER_SIZE)) >= 0
 				&& (tmp[ret[1]] = '\0') == 0)
@@ -87,7 +87,7 @@ int				get_next_line(int fd, char **line)
 			if (ret[1] == 0)
 				return (EOF_RCHD);
 		}
-		if (ret[0] == 1)
+		if (ret[0] == FOUND_ENDLINE)
 			return (READL_OK);
 	}
 	ft_free_null(&*line);
