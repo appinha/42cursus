@@ -22,7 +22,7 @@ The 42cursus comprises two groups of projects: the first one being known as "inn
 |:dizzy:|									|			|**= 1 week**	|**= 462 XP**	|							|				|
 |01		|[netwhat](./01-netwhat)			|N/A		|about 3 days	|462 XP			|100% :heavy_check_mark:	|level 1 - 23%	|
 |01		|[get_next_line](./01-get_next_line)|C			|about 1 week	|882 XP			|115% :heavy_check_mark:	|level 1 - 69%	|
-|01		|ft_printf							|C			|about 1 week	|882 XP			|							|				|
+|01		|[ft_printf](./01-ft_printf)		|C			|about 1 week	|882 XP			|115% :heavy_check_mark:	|level 2 - 5%	|
 |:dizzy:|									|			|**= 2,5 weeks**|**= 2.226 XP**	|							|				|
 |02		|Exam Rank 02						|C			|-				|0 XP			|							|				|
 |02		|miniRT								|?			|about 2 weeks	|4.620 XP		|							|				|
