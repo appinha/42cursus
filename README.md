@@ -18,16 +18,16 @@ The 42cursus comprises two groups of projects: the first one being known as "inn
 |CIRCLE	|PROJECT							|LANGUAGE	|DURATION		|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:-:		|--:			|--:			|--:						|:--			|
 |		|									|			|				|				|							|				|
-|00		|[Libft](./00-Libft)				|C			|about 1 week	|462 XP			|115% :heavy_check_mark:	|level 1 - 03%	|
+|00		|[Libft](./00-Libft)				|C			|about 1 week	|462 XP			|115% :heavy_check_mark:	|level 1 - 3%	|
 |:dizzy:|									|			|**= 1 week**	|**= 462 XP**	|							|				|
 |01		|[netwhat](./01-netwhat)			|N/A		|about 3 days	|462 XP			|100% :heavy_check_mark:	|level 1 - 23%	|
 |01		|[get_next_line](./01-get_next_line)|C			|about 1 week	|882 XP			|115% :heavy_check_mark:	|level 1 - 69%	|
 |01		|[ft_printf](./01-ft_printf)		|C			|about 1 week	|882 XP			|115% :heavy_check_mark:	|level 2 - 5%	|
 |:dizzy:|									|			|**= 2,5 weeks**|**= 2.226 XP**	|							|				|
+|02		|[ft_server](./02-ft_server)		|docker, .sh|about 1 week	|1.722 XP		|100% :heavy_check_mark:	|level 2 - 32%	|
 |02		|Exam Rank 02						|C			|-				|0 XP			|							|				|
 |02		|miniRT								|?			|about 2 weeks	|4.620 XP		|							|				|
 |02		|cub3d								|?			|about 2 weeks	|4.620 XP		|							|				|
-|02		|ft_server							|?			|about 1 week	|1.722 XP		|							|				|
 |:dizzy:|									|			|**= 5 weeks**	|**= 10.962 XP**|							|				|
 |03		|Exam Rank 03						|?			|-				|0 XP			|							|				|
 |03		|libasm								|?			|about 1 week	|966 XP			|							|				|
