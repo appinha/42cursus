@@ -1,6 +1,6 @@
 # 42cursus
 
-This repository contains coding developed at the 42saopaulo's cursus - begin date: 20/jan/2020.
+This repository contains coding developed at the 42saopaulo's cursus. Begin date: 20/jan/2020.
 
 ## About 42
 
@@ -9,9 +9,12 @@ This repository contains coding developed at the 42saopaulo's cursus - begin dat
 	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
 	approved in its selection process, becoming thus "cadets" (42's students).
 
+![42saopaulo](42saopaulo.jpg)
+
 ## Skills developed at the 42cursus
 
 ### Hard-skills
+
 * C/C++, Makefile
 * Shell scripting
 * Git
@@ -20,9 +23,11 @@ This repository contains coding developed at the 42saopaulo's cursus - begin dat
 * SQL
 * Web (HTML, CSS, Wordpress)
 * Computer graphics
+
 -- among others (find below the complete curriculum).
 
 ### Soft-skills
+
 	# Self-learning and proactiveness
 		At 42, self-learning is at the core of its peer to peer learning methodology. There
 		are no teachers whatsoever; the learning process is based on googling, enquiring
@@ -43,7 +48,7 @@ This repository contains coding developed at the 42saopaulo's cursus - begin dat
 
 The 42cursus comprises two groups of projects: the first one being known as "inner circle" and the second one, "outer treks" - due to the Holy Graph layout (see image below). The "inner circle" is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimun level required for activities such as internships and interchange. The "outer treks" are a collection of diverse project trails in subjects ranging from operational systems to web development that allows cadets to specialize in such subjects.
 
-[42's galaxy](galaxy.png)
+![42's galaxy](galaxy.png)
 
 The table below presents the cursus' curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
