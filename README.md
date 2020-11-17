@@ -1,17 +1,19 @@
 # 42cursus
 
-This repository contains coding developed at the 42saopaulo's cursus. Begin date: 20/jan/2020.
+This repository contains coding developed at [42saopaulo's](https://www.42sp.org.br/) cursus. Start date: 20/jan/2020.
 
 ## About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
 	no classrooms, students learning from their fellow students (peer to peer learning), with a
 	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
-	approved in its selection process, becoming thus "cadets" (42's students).
+	approved in its selection process* - the so-called "C Piscine" - becoming thus "cadets" (42's students).
 
-![42saopaulo](42saopaulo.jpg)
+\* For further information about 42's __selection process__, please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
 
-## Skills developed at the 42cursus
+[![Photo of a 42saopaulo's lab](42saopaulo.jpg)](https://www.42sp.org.br/)
+
+## Skills developed at 42cursus
 
 ### Hard-skills
 
@@ -24,7 +26,7 @@ This repository contains coding developed at the 42saopaulo's cursus. Begin date
 * Web (HTML, CSS, Wordpress)
 * Computer graphics
 
--- among others (find below the complete curriculum).
+-- among others (find below the complete [curriculum](#42s-galaxy-curriculum)).
 
 ### Soft-skills
 
@@ -64,24 +66,24 @@ The table below presents the cursus' curriculum in the chronological order in wh
 |01		|[ft_printf](./01-ft_printf)		|C						|882 XP			|115% :heavy_check_mark:	|level 2 - 5%	|
 |:dizzy:|									|						|**= 2.226 XP**	|							|				|
 |02		|[ft_server](./02-ft_server)		|docker, .sh, web, SQL	|1.722 XP		|100% :heavy_check_mark:	|level 2 - 32%	|
-|02		|Exam Rank 02						|-						|0 XP			|							|				|
 |02		|miniRT								|C, Computer Graphics	|4.620 XP		|							|				|
 |02		|cub3d								|C, Computer Graphics	|4.620 XP		|							|				|
+|02		|Exam Rank 02						|-						|0 XP			|							|				|
 |:dizzy:|									|						|**= 10.962 XP**|							|				|
-|03		|Exam Rank 03						|-						|0 XP			|							|				|
 |03		|libasm								|Assembly				|966 XP			|							|				|
 |03		|minishell							|C						|2.814 XP		|							|				|
 |03		|ft_services						|docker, Kubernetes		|1.008 XP		|							|				|
+|03		|Exam Rank 03						|-						|0 XP			|							|				|
 |:dizzy:|									|						|**= 4.788 XP**	|							|				|
-|04		|Exam Rank 04						|-						|0 XP			|							|				|
 |04		|Philosophers						|C						|3.360 XP		|							|				|
 |04		|CPP Modules (9)					|C++					|9.660 XP		|							|				|
+|04		|Exam Rank 04						|-						|0 XP			|							|				|
 |:dizzy:|									|						|**= 13.020 XP**|							|				|
-|05		|Exam Rank 05						|-						|0 XP			|							|				|
 |05		|ft_containers						|C++					|5.796 XP		|							|				|
 |05		|webserv							|C++					|17.304 XP		|							|				|
 |05		|ft_irc								|C++					|17.304 XP		|							|				|
+|05		|Exam Rank 05						|-						|0 XP			|							|				|
 |:dizzy:|									|						|**= 40.404 XP**|							|				|
-|06		|Exam Rank 06						|-						|0 XP			|							|				|
 |06		|ft_transcendence					|?						|24.360 XP		|							|				|
+|06		|Exam Rank 06						|-						|0 XP			|							|				|
 |:dizzy:|									|						|**= 24.360 XP**|							|				|
