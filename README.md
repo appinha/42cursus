@@ -9,7 +9,7 @@ This repository contains coding developed at [42saopaulo's](https://www.42sp.org
 	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
 	approved in its selection process* - the so-called "C Piscine" - becoming thus "cadets" (42's students).
 
-\* For further information about 42's __selection process__, please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
+> \* For further information about 42's __selection process__, please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
 
 [![Photo of a 42saopaulo's lab](42saopaulo.jpg)](https://www.42sp.org.br/)
 
@@ -17,14 +17,14 @@ This repository contains coding developed at [42saopaulo's](https://www.42sp.org
 
 ### Hard-skills
 
-* C/C++, Makefile
-* Shell scripting
-* Git
-* Networks
-* Docker
-* SQL
-* Web (HTML, CSS, Wordpress)
-* Computer graphics
+	* C/C++, Makefile
+	* Shell scripting
+	* Git
+	* Networks
+	* Docker
+	* SQL
+	* Web (HTML, CSS, Wordpress)
+	* Computer graphics
 
 -- among others (find below the complete [curriculum](#42s-galaxy-curriculum)).
 
@@ -59,13 +59,13 @@ The table below presents the cursus' curriculum in the chronological order in wh
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:-:					|--:			|--:						|:--			|
 |		|									|						|				|							|				|
-|00		|[Libft](./00-Libft)				|C						|462 XP			|115% :heavy_check_mark:	|level 1 - 3%	|
+|00		|[Libft](./00-Libft)				|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/Libft)	|level 1 - 3%	|
 |:dizzy:|									|						|**= 462 XP**	|							|				|
-|01		|[netwhat](./01-netwhat)			|Networks				|462 XP			|100% :heavy_check_mark:	|level 1 - 23%	|
-|01		|[get_next_line](./01-get_next_line)|C						|882 XP			|115% :heavy_check_mark:	|level 1 - 69%	|
-|01		|[ft_printf](./01-ft_printf)		|C						|882 XP			|115% :heavy_check_mark:	|level 2 - 5%	|
+|01		|[netwhat](./01-netwhat)			|Networks				|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/netwhat)	|level 1 - 23%	|
+|01		|[get_next_line](./01-get_next_line)|C						|882 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/get_next_line)	|level 1 - 69%	|
+|01		|[ft_printf](./01-ft_printf)		|C						|882 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/ft_printf)	|level 2 - 5%	|
 |:dizzy:|									|						|**= 2.226 XP**	|							|				|
-|02		|[ft_server](./02-ft_server)		|docker, .sh, web, SQL	|1.722 XP		|100% :heavy_check_mark:	|level 2 - 32%	|
+|02		|[ft_server](./02-ft_server)		|docker, .sh, web, SQL	|1.722 XP		|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/ft_server)	|level 2 - 32%	|
 |02		|miniRT								|C, Computer Graphics	|4.620 XP		|							|				|
 |02		|cub3d								|C, Computer Graphics	|4.620 XP		|							|				|
 |02		|Exam Rank 02						|-						|0 XP			|							|				|
