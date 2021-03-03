@@ -1,0 +1,3 @@
+[submodule "01-netwhat/ip_calc"]
+	path = 01-netwhat/ip_calc
+	url = https://github.com/appinha/ip_calc-netwhat-42cursus

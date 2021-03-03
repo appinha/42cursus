@@ -1,16 +1,32 @@
-# netwhat
+<h1 align="center">
+	42cursus' netwhat
+</h1>
+
+<h3 align="center">
+	<a href="#%EF%B8%8F-about">About</a>
+	<span> · </span>
+	<a href="#-index">Index</a>
+	<span> · </span>
+	<a href="#-study-summary">Study Summary</a>
+</h3>
+
+---
+
+## 🗣️ About
 
 >"This project is an introduction to network problematics"
 
-For further information, refer to the [project's PDF](../_PDFs/01-netwhat-en.pdf).
+For detailed information, refer to the [**subject of this project**](../_PDFs/01-netwhat-en.pdf).
 
-## Contents
+## 📑 Index
 
-* **[apuchill-ip_calc](./apuchill-ip_calc) folder:** program to calculate information about IP addresses and such.
-* **[questions](./questions) folder:** questions answered on the netwhat test (printscreens).
-* **file in the root:** file submitted to the project.
+`@root`
 
-## Study Summary
+* 📁 [**ip_calc**](ip_calc/) - program to calculate information about IP addresses.
+* 📁 [**questions**](questions/) - questions answered on the netwhat test (screenshots).
+* [**answer.txt**](answer.txt) file submitted to the project.
+
+## 🤓 Study Summary
 
 ### 1. IP (Internet Protocol)
 
