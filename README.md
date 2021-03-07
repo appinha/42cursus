@@ -1,8 +1,29 @@
-# 42cursus
+<h1 align="center">
+	42cursus
+</h1>
 
-This repository contains coding developed at [42saopaulo's](https://www.42sp.org.br/) cursus. Start date: 20/jan/2020.
+<p align="center">
+	<b><i>Projects developed at the <a href="https://www.42sp.org.br/">42 São Paulo</a> programming school.</i></b><br>
+	Start date: 20/jan/2020.
+</p>
 
-## About 42
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/appinha/42cursus?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/appinha/42cursus?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/appinha/42cursus?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/appinha/42cursus?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/appinha/42cursus?color=brightgreen" />
+</p>
+
+<h3 align="center">
+	<a href="#%EF%B8%8F-about-42">About 42</a>
+	<span> · </span>
+	<a href="#-skills-developed-at-42cursus">Skills developed at 42cursus</a>
+	<span> · </span>
+	<a href="#-">42's galaxy (curriculum)</a>
+</h3>
+
+## 🗣️ About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
 	no classrooms, students learning from their fellow students (peer to peer learning), with a
@@ -17,7 +38,7 @@ This repository contains coding developed at [42saopaulo's](https://www.42sp.org
 
 ### Hard-skills
 
-	* C/C++, Makefile
+	* C/C++ language, Makefile
 	* Shell scripting
 	* Git
 	* Networks
@@ -25,6 +46,7 @@ This repository contains coding developed at [42saopaulo's](https://www.42sp.org
 	* SQL
 	* Web (HTML, CSS, Wordpress)
 	* Computer graphics
+	* Assembly language
 
 -- among others (find below the complete [curriculum](#42s-galaxy-curriculum)).
 
@@ -46,7 +68,7 @@ This repository contains coding developed at [42saopaulo's](https://www.42sp.org
 		demands excellent time management skills and resiliency for not "drowning" amid the
 		massive load of work demanded by the program.
 
-## 42's galaxy (curriculum)
+## 🌌 42's galaxy (curriculum)
 
 The 42cursus comprises two groups of projects: the first one being known as "inner circle" and the second one, "outer treks" - due to the Holy Graph layout (see image below). The "inner circle" is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimun level required for activities such as internships and interchange. The "outer treks" are a collection of diverse project trails in subjects ranging from operational systems to web development that allows cadets to specialize in such subjects.
 
