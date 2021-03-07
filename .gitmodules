@@ -7,3 +7,6 @@
 [submodule "01-ft_printf"]
 	path = 01-ft_printf
 	url = https://github.com/appinha/42cursus-01-ft_printf
+[submodule "01-get_next_line"]
+	path = 01-get_next_line
+	url = https://github.com/appinha/42cursus-01-get_next_line
