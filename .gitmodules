@@ -4,3 +4,6 @@
 [submodule "00-libft"]
 	path = 00-libft
 	url = https://github.com/appinha/42cursus-00-Libft
+[submodule "01-ft_printf"]
+	path = 01-ft_printf
+	url = https://github.com/appinha/42cursus-01-ft_printf
