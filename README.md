@@ -49,7 +49,7 @@
 	* Computer graphics
 	* Assembly language
 
--- among others (find below the complete [curriculum](#42s-galaxy-curriculum)).
+-- among others (find below the complete [curriculum](#-42s-galaxy-curriculum)).
 
 ### Soft-skills
 
@@ -71,11 +71,15 @@
 
 ## 🌌 42's galaxy (curriculum)
 
-The 42cursus comprises two groups of projects: the first one being known as "inner circle" and the second one, "outer treks" - due to the Holy Graph layout (see image below). The "inner circle" is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange. The "outer treks" are a collection of diverse project trails in subjects ranging from operational systems to web development that allows cadets to specialize in such subjects.
+The **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
+
+The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+
+The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
 ![42's galaxy](galaxy.png)
 
-The table below presents the cursus' curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
+The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
 ### Inner Circle (basic curriculum)
 
