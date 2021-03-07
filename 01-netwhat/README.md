@@ -7,6 +7,8 @@
 	<span> · </span>
 	<a href="#-index">Index</a>
 	<span> · </span>
+	<a href="#-useful-links">Useful Links</a>
+	<span> · </span>
 	<a href="#-study-summary">Study Summary</a>
 </h3>
 
@@ -18,13 +20,20 @@
 
 For detailed information, refer to the [**subject of this project**](../_PDFs/01-netwhat-en.pdf).
 
+	🚀 TLDR: this project consists of an online test with 20 questions (check some examples in the
+	"questions" folder) about the subjects detailed in the Study Summary section (see below).
+
 ## 📑 Index
 
 `@root`
 
-* 📁 [**ip_calc**](ip_calc/) - program to calculate information about IP addresses.
-* 📁 [**questions**](questions/) - questions answered on the netwhat test (screenshots).
+* 📁 [**ip_calc**](ip_calc/) - program to calculate information about IP addresses, a very helpful tool when taking the netwhat test.
+* 📁 [**questions**](questions/) - screenshots of the questions answered on the netwhat test.
 * [**answer.txt**](answer.txt) file submitted to the project.
+
+## 📌 Useful Links
+
+* [adblanc/netwhat42-train](https://github.com/adblanc/netwhat42-train)
 
 ## 🤓 Study Summary
 
