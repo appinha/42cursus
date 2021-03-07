@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-	<b><i>Projects developed at the <a href="https://www.42sp.org.br/">42 São Paulo</a> programming school.</i></b><br>
-	Start date: 20/jan/2020.
+	<b><i>Projects developed at <a href="https://www.42sp.org.br/">42 São Paulo</a> programming school.</i></b><br>
+	Start date: 20/jan/2020 - the very first 42 class of South America!
 </p>
 
 <p align="center">
@@ -18,19 +18,20 @@
 <h3 align="center">
 	<a href="#%EF%B8%8F-about-42">About 42</a>
 	<span> · </span>
-	<a href="#-skills-developed-at-42cursus">Skills developed at 42cursus</a>
+	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42cursus</a>
 	<span> · </span>
 	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
 </h3>
 
 ## 🗣️ About 42
 
-	42 is a global education initiative that proposes a new way of learning technology: no teachers,
-	no classrooms, students learning from their fellow students (peer to peer learning), with a
-	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
-	approved in its selection process* - the so-called "C Piscine" - becoming thus "cadets" (42's students).
+	42 is a global education initiative that proposes a new way of learning technology:
+	no teachers, no classrooms, students learning from their fellow students (peer to
+	peer learning), with a methodology that develops both computing and life skills.
+	The 42 cursus is free for whoever is approved in its selection process* - the
+	so-called "Piscine" - becoming thus "cadets" (42's students).
 
-> \* For further information about 42's **selection process**, please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
 
 [![Photo of a 42saopaulo's lab](42saopaulo.jpg)](https://www.42sp.org.br/)
 
@@ -52,7 +53,7 @@
 
 ### Soft-skills
 
-	# Self-learning and proactiveness
+	# Self-learning and proactivity
 		At 42, self-learning is at the core of its peer to peer learning methodology. There
 		are no teachers whatsoever; the learning process is based on googling, enquiring
 		your classmates, and empirical knowledge, each student learning at their own pace.
