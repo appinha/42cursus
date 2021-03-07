@@ -20,7 +20,7 @@
 	<span> · </span>
 	<a href="#-skills-developed-at-42cursus">Skills developed at 42cursus</a>
 	<span> · </span>
-	<a href="#-">42's galaxy (curriculum)</a>
+	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
 </h3>
 
 ## 🗣️ About 42
@@ -30,11 +30,11 @@
 	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
 	approved in its selection process* - the so-called "C Piscine" - becoming thus "cadets" (42's students).
 
-> \* For further information about 42's __selection process__, please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
+> \* For further information about 42's **selection process**, please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
 
 [![Photo of a 42saopaulo's lab](42saopaulo.jpg)](https://www.42sp.org.br/)
 
-## Skills developed at 42cursus
+## 🛠️ Skills developed at 42cursus
 
 ### Hard-skills
 
@@ -70,7 +70,7 @@
 
 ## 🌌 42's galaxy (curriculum)
 
-The 42cursus comprises two groups of projects: the first one being known as "inner circle" and the second one, "outer treks" - due to the Holy Graph layout (see image below). The "inner circle" is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimun level required for activities such as internships and interchange. The "outer treks" are a collection of diverse project trails in subjects ranging from operational systems to web development that allows cadets to specialize in such subjects.
+The 42cursus comprises two groups of projects: the first one being known as "inner circle" and the second one, "outer treks" - due to the Holy Graph layout (see image below). The "inner circle" is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange. The "outer treks" are a collection of diverse project trails in subjects ranging from operational systems to web development that allows cadets to specialize in such subjects.
 
 ![42's galaxy](galaxy.png)
 
