@@ -25,11 +25,11 @@
 
 ## 🗣️ About 42
 
-	42 is a global education initiative that proposes a new way of learning technology:
-	no teachers, no classrooms, students learning from their fellow students (peer to
-	peer learning), with a methodology that develops both computing and life skills.
-	The 42 cursus is free for whoever is approved in its selection process* - the
-	so-called "Piscine" - becoming thus "cadets" (42's students).
+	42 is a global education initiative that offers a new way of learning technology:
+	no teachers, no classrooms, students learning from their fellow students (peer to peer
+	learning), with a methodology that develops both computing and life skills. The 42 cursus is
+	free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
+	thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/appinha/42sp-piscine).
 
@@ -71,7 +71,7 @@
 
 ## 🌌 42's galaxy (curriculum)
 
-The **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
+**42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
 
 The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
 
@@ -84,20 +84,18 @@ The table below presents the cursus curriculum in the chronological order in whi
 ### Inner Circle (basic curriculum)
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
-|:-:	|:--								|:-:					|--:			|--:						|:--			|
-|		|									|						|				|							|				|
-|00		|[Libft](./00-Libft)				|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/Libft)	|level 1 - 3%	|
+|:-:	|:--								|:--					|--:			|:-:						|:--			|
+|00		|[Libft](https://github.com/appinha/42cursus-00-Libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/Libft)	|level 1 - 3%	|
 |:dizzy:|									|						|**= 462 XP**	|							|				|
-|01		|[netwhat](./01-netwhat)			|Networks				|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/netwhat)	|level 1 - 23%	|
-|01		|[get_next_line](./01-get_next_line)|C						|882 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/get_next_line)	|level 1 - 69%	|
-|01		|[ft_printf](./01-ft_printf)		|C						|882 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/ft_printf)	|level 2 - 5%	|
+|01		|[netwhat](01-netwhat/)			|Networks				|462 XP			|![Project Score - netwhat](https://badge42.herokuapp.com/api/project/apuchill/netwhat)	|level 1 - 23%	|
+|01		|[get_next_line](https://github.com/appinha/42cursus-01-get_next_line)|C						|882 XP			|![Project Score - get_next_line](https://badge42.herokuapp.com/api/project/apuchill/get_next_line)	|level 1 - 69%	|
+|01		|[ft_printf](https://github.com/appinha/42cursus-01-ft_printf)|C						|882 XP			|![Project Score - ft_printf](https://badge42.herokuapp.com/api/project/apuchill/ft_printf)	|level 2 - 5%	|
 |:dizzy:|									|						|**= 2.226 XP**	|							|				|
-|02		|[ft_server](./02-ft_server)		|docker, .sh, web, SQL	|1.722 XP		|![Project Score - Libft](https://badge42.herokuapp.com/api/project/apuchill/ft_server)	|level 2 - 32%	|
-|02		|miniRT								|C, Computer Graphics	|4.620 XP		|							|				|
-|02		|cub3d								|C, Computer Graphics	|4.620 XP		|							|				|
+|02		|[ft_server](https://github.com/appinha/42cursus-02-ft_server)|docker, .sh, web, SQL	|1.722 XP		|![Project Score - ft_server](https://badge42.herokuapp.com/api/project/apuchill/ft_server)	|level 2 - 32%	|
+|02		|[miniRT](https://github.com/appinha/42cursus-02-miniRT) or cub3d	|C, Computer Graphics	|4.620 XP		|![Project Score - miniRT](https://badge42.herokuapp.com/api/project/apuchill/miniRT)							|level 3 - 6%	|
 |02		|Exam Rank 02						|-						|0 XP			|							|				|
 |:dizzy:|									|						|**= 10.962 XP**|							|				|
-|03		|libasm								|Assembly				|966 XP			|							|				|
+|03		|[libasm](https://github.com/appinha/42cursus-03-libasm)								|Assembly				|966 XP			|![Project Score - libasm](https://badge42.herokuapp.com/api/project/apuchill/libasm)|level 3 - 27%	|
 |03		|minishell							|C						|2.814 XP		|							|				|
 |03		|ft_services						|docker, Kubernetes		|1.008 XP		|							|				|
 |03		|Exam Rank 03						|-						|0 XP			|							|				|
