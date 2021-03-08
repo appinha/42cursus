@@ -16,3 +16,6 @@
 [submodule "02-minirt"]
 	path = 02-minirt
 	url = https://github.com/appinha/42cursus-02-miniRT
+[submodule "03-libasm"]
+	path = 03-libasm
+	url = https://github.com/appinha/42cursus-03-libasm
