@@ -13,3 +13,6 @@
 [submodule "02-ft_server"]
 	path = 02-ft_server
 	url = https://github.com/appinha/42cursus-02-ft_server
+[submodule "02-minirt"]
+	path = 02-minirt
+	url = https://github.com/appinha/42cursus-02-miniRT
